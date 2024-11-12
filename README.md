@@ -11,3 +11,6 @@ The instructions for applying the fix will be described later.
 
 # Credits & References
 - https://www.reddit.com/r/FirefoxCSS/comments/qejhsa/how_to_remove_gap_between_pinned_tabs_and/
+- https://www.reddit.com/r/FirefoxCSS/comments/ze0wma/remove_line_between_tabs_and_firefox_view/
+- https://www.reddit.com/r/FirefoxCSS/comments/h8h4fi/how_to_remove_blank_space_top_left/
+- https://www.reddit.com/r/firefox/comments/y81r8e/does_anyone_know_how_to_remove_the_private/
