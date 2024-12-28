@@ -1,4 +1,4 @@
-.titlebar-spacer[type="pre-tabs"]{display:none!important;}
+.titlebar-spacer{display:none!important;}
 #tabbrowser-tabs{border-inline-start: none !important;}
 #private-browsing-indicator-with-label{ display: none !important; }
 
